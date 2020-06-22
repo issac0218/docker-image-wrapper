@@ -1,0 +1,1 @@
+kube-scheduler:v1.18.4
